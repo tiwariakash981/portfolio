@@ -1,1 +1,1 @@
-image.png file contains a sample template
+![Shows home sectionof my portfolio](image.png)
